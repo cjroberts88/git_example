@@ -1,5 +1,9 @@
 This is the first commit
 This is the second line and we will commit this change
+
 This is the middle intermediate line in my local machine
+
+and combine with an online intermediate line here
+
 This is the third line
 This is the fourth line
